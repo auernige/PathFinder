@@ -1,6 +1,6 @@
 import React from "react";
 
-function Tile(props) {
+function Tile() {
     return (
         <button 
             className="tile white"

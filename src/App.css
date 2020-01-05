@@ -40,10 +40,23 @@
 .tile {
   width: 20px;
   height: 20px;
+
 }
 
 .white {
   background-color: white;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.board-row {
+  height: 20px;
+}
+
+.board {
+  margin: 20px;
+  width: 200px;
   border: 1px;
   border-color: black;
   border-style: solid;
