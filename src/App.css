@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.tile {
+  width: 20px;
+  height: 20px;
+}
+
+.white {
+  background-color: white;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
